@@ -45,3 +45,5 @@ Este simulador fue creado con fines educativos como parte del aprendizaje en des
 🧑‍💻 Autor
 
 Proyecto desarrollado por Edgar Alonso González Gómez como parte del proceso de aprendizaje en ingeniería de sistemas.
+
+Modificación para la especificaion de algunos metodos
